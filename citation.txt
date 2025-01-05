@@ -1,0 +1,10 @@
+@article{REPO194,
+    author = "Dong, Qiujie and Xu, Rui and Wang, Pengfei and Chen, Shuangmin and Xin, Shiqing and Jia, Xiaohong and Wang, Wenping and Tu, Changhe",
+    address = "New York, NY, USA",
+    issue_date = "July 2024",
+    number = "4",
+    publisher = "Association for Computing Machinery",
+    title = "{NeurCADRecon: Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curvature}",
+    volume = "43",
+    year = "2024"
+}
